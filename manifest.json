@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "로또 번호 생성기",
+  "version": "1.0.0",
+  "description": "행운의 로또 번호를 무작위로 생성해주는 간단한 도구입니다.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
